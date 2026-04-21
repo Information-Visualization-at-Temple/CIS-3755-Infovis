@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://information-visualization-at-temple.github.io/sitemap.xml
-Sitemap: https://information-visualization-at-temple.github.io/image-sitemap.xml
+Sitemap: https://cis-3755-infovis.github.io/sitemap.xml
+Sitemap: https://cis-3755-infovis.github.io/image-sitemap.xml
